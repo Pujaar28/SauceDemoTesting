@@ -1,0 +1,15 @@
+{
+  "name": "SauceDemoTesting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Pujaar28/SauceDemoTesting.git",
+  "author": "DESKTOP-52KS6G7\\akhma <adityamazter@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  },
+  "scripts": {
+    "cy:open":"cypress open",
+    "cy:run": "cypress run"
+  }
+}
