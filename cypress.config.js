@@ -4,6 +4,7 @@ module.exports = defineConfig({
   e2e: {
     testIsolation: false,
     specPattern: 'cypress/e2e/**/*.cy.js',
+    pageLoadTimeout : 20000
   },
 
   component: {

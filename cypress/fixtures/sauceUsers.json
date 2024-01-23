@@ -1,7 +1,11 @@
 {
       "usernames": ["standard_user", "locked_out_user", "problem_user", "performance_glitch_user", "error_user", "visual_user"],
       "username": "standard_user",
-      "password": "secret_sauce"
+      "password": "secret_sauce",
+  "firstName": ["Puja", "Aditya", "Heka", "Satria"],
+  "lastName": ["Raihan", "Pratama", "Baja Hitam", "Rahman"],
+  "postalCode": [42132, 42123, 45212, 45212]
 }
+
 
   
